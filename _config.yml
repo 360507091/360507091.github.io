@@ -97,8 +97,8 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "异绮帖",
-        href: "https://akinokaede.com/"
+        title: "V2",
+        href: "https://github.com/colatiger/v2ray-nodes/commits?author=colatiger"
     },
     {
         title: "Apple",
