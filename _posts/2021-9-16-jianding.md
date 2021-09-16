@@ -1,7 +1,7 @@
 ---
 layout:     post                     # 使用的布局（不需要改）
-title:      中医药剂口诀               # 标题 
-subtitle:    "\"药剂口诀\""       #副标题
+title:      中药鉴定              # 标题 
+subtitle:    "\"中药鉴定\""       #副标题
 date:       2021-9-16      # 时间
 author:     tang              # 作者
 header-img: img/post-bg-2015.jpg    #这篇文章标题背景图片
@@ -11,6 +11,7 @@ tags:                       #标签
     - 学习
     - 口诀
     - 记忆
+    - 鉴定
 ---
 
 > “🙉🙉🙉 ”
