@@ -12,5 +12,5 @@ tags:                       #标签
     - 口诀
     - 中成药
 ---
-![11](https://github.com/360507091/360507091.github.io/blob/master/img/55.jpg)
-
+![11](https://github.com/360507091/360507091.github.io/blob/master/img/11.jpg)
+![11](https://github.com/360507091/360507091.github.io/blob/master/img/22.jpg)
